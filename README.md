@@ -5,5 +5,5 @@ Schedule
 1. Math
 2. IOS
 3. Cyber
-> * Cool
+  * Cool
 4. APPS
